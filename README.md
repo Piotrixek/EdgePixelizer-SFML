@@ -2,7 +2,8 @@
 
 A desktop application built with C++, SFML, OpenCV, and Dear ImGui that converts images into pixelated edge art. It provides real-time previews and allows adjustment of various image processing parameters.
 
-![Screenshot Placeholder]([screenshot.png](https://prnt.sc/uTOTcujxiPRM)) 
+
+![Application Screenshot](https://raw.githubusercontent.com/Piotrixek/EdgePixelizer-SFML/main/image.png) 
 
 ## Features
 
